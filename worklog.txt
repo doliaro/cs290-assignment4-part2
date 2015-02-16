@@ -1,0 +1,23 @@
+Start: Tue, 10 Feb 2015 11:42:12
+End: Tue, 10 Feb 2015 1:11:19
+Tasks: Started the assignment/researching how to start
+
+Start: Wed, 11 Feb 2015 20:12:52
+End: Wed, 11 Feb 2015 21:11:19
+Tasks: researched more and got my environement set up
+
+Start: Thur, 12 Feb 2015 10:04:18
+End: Thur, 12 Feb 2015 14:06:19
+Tasks: worked on the table add video functionality
+
+Start: Fri, 13 Feb 2015 15:12:58
+End: Fri, 13 Feb 2015 16:17:39
+Tasks: worked on check in check out button
+
+Start: Sat, 14 Feb 2015 11:02:36
+End: Sat, 14 Feb 2015 13:11:59
+Tasks: worked on delete all videos and category drop down
+
+Start: Sun, 15 Feb 2015 20:02:36
+End: Sun, 15 Feb 2015 23:41:59
+Tasks: worked on all non working functionalities
